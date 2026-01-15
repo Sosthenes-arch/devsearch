@@ -1,5 +1,7 @@
 # DevSearch
 
+> [!NOTE] > **This project is currently ongoing.** I am actively working on it and adding new features.
+
 DevSearch is a social network for developers to showcase their projects and connect with others. This project is built using Django.
 
 ## Features
